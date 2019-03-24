@@ -87,9 +87,9 @@
 //
 // Steppers
 //
-#define X_STEP_PIN         55   // F1
-#define X_DIR_PIN          54   // F0
-#define X_ENABLE_PIN       56   // F2
+#define X_STEP_PIN         79   // F1
+#define X_DIR_PIN          38   // F0
+#define X_ENABLE_PIN       78   // F2
 
 #define Y_STEP_PIN         44   // F5
 #define Y_DIR_PIN          42   // F4
