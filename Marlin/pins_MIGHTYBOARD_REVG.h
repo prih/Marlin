@@ -81,7 +81,7 @@
 // Z Probe (when not Z_MIN_PIN)
 //
 #ifndef Z_MIN_PROBE_PIN
-  #define Z_MIN_PROBE_PIN  42
+  #define Z_MIN_PROBE_PIN  58
 #endif
 
 //
@@ -151,8 +151,8 @@
 //
 #define MOSFET_A_PIN        6   // H3
 #define MOSFET_B_PIN       11   // B5 - Rev A of this file had this pin assigned to 9
-#define MOSFET_C_PIN       45   // L4
-#define MOSFET_D_PIN       44   // L5
+#define MOSFET_C_PIN       60   // L4
+#define MOSFET_D_PIN       59   // L5
 
 #if HOTENDS > 1
   #if TEMP_SENSOR_BED
