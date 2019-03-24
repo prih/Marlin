@@ -134,7 +134,7 @@
 //  2 E4 CS2
 // 78 E2 SCK
 //
-#define THERMO_SCK_PIN     78   // E2
+#define THERMO_SCK_PIN     56   // E2
 #define THERMO_DO_PIN       3   // E5
 #define THERMO_CS1          5   // E3
 #define THERMO_CS2          2   // E4
